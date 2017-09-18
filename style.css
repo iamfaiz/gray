@@ -1,0 +1,77 @@
+.section {
+    padding: 60px 0;
+}
+
+.section-alt {
+    background: #eee;
+}
+
+.section-title {
+    font-size: 4em;
+    font-weight: lighter;
+    text-transform: uppercase;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    letter-spacing: .2em;
+    text-align: center;
+}
+
+.section-subtitle {
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.hero {
+    background: url(//unsplash.it/g/1400/700?image=100);
+    background-size: cover;
+    height: 100vh;
+    color: black;
+    text-align: center;
+    padding-top: 300px;
+}
+
+.hero h1 {
+    font-size: 5em;
+    font-weight: lighter;
+    /* letter-spacing: .2em; */
+    text-transform: uppercase;
+}
+
+.services {
+    text-align: center;
+}
+
+.services .lead {
+    margin-top: 20px;
+}
+
+.services h3 {
+    margin-bottom: 30px;
+}
+
+.service-image {
+    margin-bottom: 20px;
+}
+.service-image i {
+    font-size: 4em;
+    border: 1px solid black;
+    padding: 50px;
+    border-radius: 50%;
+    background: black;
+    color: white;
+}
+
+.section.portfolio {
+    padding-bottom: 60px;
+}
+
+.portfolio-item {
+    text-align: center;
+    margin-bottom: 70px;
+}
+
+.portfolio-item-title {
+    font-weight: normal;
+    font-size: 1.1em;
+    margin-top: 20px;
+}
